@@ -10,4 +10,5 @@ def main_view(request):
 
 
 def get_json_car_data(request):
-    qs_val=list(Car.objects.values())
+    qs_val=list(Car.objects.values()) 
+    return JsonResponse({'data':qs_val})

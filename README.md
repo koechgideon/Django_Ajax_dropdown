@@ -1,1 +1,1 @@
-# Django_Ajax_dropdown
+# Implementing chained Dropdown menu with Django and Ajax

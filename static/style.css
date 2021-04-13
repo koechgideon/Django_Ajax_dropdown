@@ -1,3 +1,8 @@
 .mt-5 {
     margin-top: 5px !important;
+    background: #fff;
+}
+
+.not-visible {
+    display: none;
 }
